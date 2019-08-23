@@ -4,7 +4,7 @@ base_name: dokku-201908
 tags:
 - linux
 presentation_date: 2019/08/23
-version: 2019.08.23
+version: 2019.08.23.1
 licenses: []
 slideshare_id: dokku-165791253
 speaker_deck_id: dokku-falseshao-jie
